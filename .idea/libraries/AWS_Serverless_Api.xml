@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AWS-Serverless-Api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/process-order.zip!/" />
+      <root url="jar://$PROJECT_DIR$/create-order.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

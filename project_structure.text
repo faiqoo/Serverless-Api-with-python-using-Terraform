@@ -1,0 +1,37 @@
+- .DS_Store
+- .terraform
+  - providers
+    - registry.terraform.io
+      - hashicorp
+        - archive
+          - 2.4.2
+            - darwin_amd64
+              - terraform-provider-archive_v2.4.2_x5
+        - aws
+          - 4.67.0
+            - darwin_amd64
+              - terraform-provider-aws_v4.67.0_x5
+        - random
+          - 3.6.0
+            - darwin_amd64
+              - terraform-provider-random_v3.6.0_x5
+- .terraform.lock.hcl
+- LICENSE
+- README.md
+- api-gateaway.tf
+- create-order
+  - create-order.py
+- create-order.zip
+- create_fun_lambda.tf
+- main.tf
+- outputs.tf
+- process-order
+  - process-order.py
+- process-order.zip
+- process_fun_lambda.tf
+- response.json
+- s3.tf
+- sqs.tf
+- terraform.tfstate
+- terraform.tfstate.backup
+- var.tf
